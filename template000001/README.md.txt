@@ -1,0 +1,1 @@
+Template criado pensando em paginas do tipo Landing Page para verder um produto expecifico
